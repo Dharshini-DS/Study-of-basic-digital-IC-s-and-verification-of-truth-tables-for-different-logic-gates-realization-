@@ -86,10 +86,12 @@ nor (y6,a,b);
 xnor (y7,a,b);
 endmodule
 ```
-Logic symbol & Truthtable
+## Logic symbol & Truthtable
+
 ![de1](https://user-images.githubusercontent.com/93427345/201479976-7a9f9bde-9d7a-4182-91d2-2526df2687d1.png)
 
-Output:
+## Output:
+
 ![de2](https://user-images.githubusercontent.com/93427345/201479990-0031869b-dc41-480b-b065-312e634b405e.png)
 
 Result:
