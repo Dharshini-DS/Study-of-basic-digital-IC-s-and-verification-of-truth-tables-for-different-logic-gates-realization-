@@ -70,10 +70,6 @@ Developed by: Dharshini DS
 RegisterNumber: 212221230022 
 ```
 ```
-Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: Meena .S
-RegisterNumber:  212221240028
-
 module ex1(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
